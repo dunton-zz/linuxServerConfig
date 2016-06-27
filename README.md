@@ -1,5 +1,7 @@
 # linuxServerConfig
 
+Instructions on how to setup an Apache server to serve my catalog app. This also gives instructions for the configuration of a UFW Firewall, changing SSH port, updating the OAuth files and more.
+
 ## Server Details
 
 IP address: `50.112.88.245` 
